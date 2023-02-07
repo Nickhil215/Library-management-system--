@@ -195,8 +195,8 @@ This Api is used for get theater details by using theater Name from theater Data
 ![ticket control ](https://user-images.githubusercontent.com/105160327/217212108-6ec62d1d-8d9e-4333-b420-fee4afb7bad1.jpg)
 In this ticket control section we can Book a ticket and Cancel a ticket
 ![Book tickets ](https://user-images.githubusercontent.com/105160327/217212130-bbb878d1-6b24-4c95-ab51-c04a04103bd1.jpg)
-This
+This Api is used to book tickets 
 ![Cancel tickets](https://user-images.githubusercontent.com/105160327/217212135-ec4cba53-f483-45a9-af3d-43298e452eb0.jpg)
-
+This Api is used to cancel ticket 
 
 
